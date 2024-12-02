@@ -1,0 +1,29 @@
+{
+    "ISSUERS": [
+        {
+            "address": "rJefvWQpP2tXVbND6xQRDg4fJNiMDsaoWH",
+            "name": "MeauxCoin"
+        }
+    ],
+    "TOKENS": [
+        {
+            "issuer": "rJefvWQpP2tXVbND6xQRDg4fJNiMDsaoWH",
+            "currency": "MXCO",
+            "name": "MeauxCoin",
+            "desc": "Le token \u00e9ducatif de Meaux, con\u00e7u pour encourager l'engagement des citoyens et commer\u00e7ants dans la transition num\u00e9rique.",
+            "icon": "https://linktr.ee/MEAUXCHAIN/icon.png"
+        }
+    ],
+    "TOKENS.WEBLINKS": [
+        {
+            "url": "https://linktr.ee/MEAUXCHAIN",
+            "type": "website",
+            "title": "Official Website"
+        },
+        {
+            "url": "https://twitter.com/MEAUXCHAIN",
+            "type": "socialmedia",
+            "title": "Twitter"
+        }
+    ]
+}
